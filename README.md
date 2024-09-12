@@ -2,7 +2,7 @@
 
 *Overview:*
 
-As part of my Data Science internship at Prodigy InfoTech, I worked on a machine learning task focused on predicting house prices using linear regression. The goal was to apply regression techniques to estimate house prices based on features such as square footage, bedrooms, and bathrooms.
+As part of my Machine Learning internship at Prodigy InfoTech, I worked on a machine learning task focused on predicting house prices using linear regression. The goal was to apply regression techniques to estimate house prices based on features such as square footage, bedrooms, and bathrooms.
 
 *Objective:*
 
